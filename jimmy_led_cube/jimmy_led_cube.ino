@@ -25,8 +25,8 @@
 // ==========================================================================================
 //   USER INPUT - to change pattern, go to calib function at bottom
 // ==========================================================================================
-int d_on = 10;    // time (in ms) LED stays on
-int d_off = 50;   // time (in ms) between LED's turning on
+int d_on = 50;    // time (in ms) LED stays on
+int d_off = 100;   // time (in ms) between LED's turning on
 int d_end = 10e3; // time (in ms) to delay at end of loop (make large to stop recording/turn off arduino
 
 // ==========================================================================================
